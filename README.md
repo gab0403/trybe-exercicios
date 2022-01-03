@@ -1,6 +1,5 @@
 # Trybe
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por Gabriela Rodrigues dos Santos 
-desenvolvidas durante o curso de Desenvolvimento Web da Trybe rocket
+Este repositório contém todas as atividades desenvolvidas por Gabriela Rodrigues dos Santos durante o curso de Desenvolvimento Web da Trybe :rocket:
 
 A Trybe é uma escola de tecnologia que tem comprometimento genuíno com o sucesso
 profissional das pessoas estudantes. Com o Modelo de Sucesso Compartilhado, quem
