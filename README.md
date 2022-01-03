@@ -1,9 +1,14 @@
 # Trybe
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por Gabriela Rodrigues dos Santos desenvolvidas durante o curso de Desenvolvimento Web da Trybe rocket
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por Gabriela Rodrigues dos Santos 
+desenvolvidas durante o curso de Desenvolvimento Web da Trybe rocket
 
-"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."
+A Trybe é uma escola de tecnologia que tem comprometimento genuíno com o sucesso
+profissional das pessoas estudantes. Com o Modelo de Sucesso Compartilhado, quem
+estuda na Trybe tem a opção de pagar apenas quando já estiver trabalhando.
 
-O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento
+web, desenvolvimento, Front-end, Back-end, ciência da computação, metodologias
+ágeis e habilidades comportamentais.
 
 # Fundamentos do Desenvolvimento Web :white_check_mark:
 ## Bloco 1: Introdução - Unix & Shell
