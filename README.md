@@ -32,7 +32,7 @@ web, desenvolvimento Front-end, Back-end, ciência da computação, metodologias
 - [x] 4-5: Projeto - Playgroud Functions
 ## Bloco 5: Introdução - JavaScript - DOM e Seletores
 - [x] 5-1: JavaScript - DOM e seletores
-- [x] 5-2: JavaScript - Web Storage Trabalhando com elementos
+- [x] 5-2: JavaScript - Trabalhando com elementos
 - [x] 5-3: JavaScript - Eventos
 - [x] 5-4: JavaScript - Web Storage
 - [x] 5-5: Projeto - Arte com Pixels
