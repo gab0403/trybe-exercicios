@@ -34,9 +34,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 5-5: Projeto - Arte com Pixels
 - [x] 5-6: Projeto - Lista de tarefas
 ## Bloco 6: HTML e CSS - Forms, Flexbox e Responsivo
-- [] 6-1: HTML e CSS - Forms
-- [] 6-2: Bibliotecas JavaScript e Frameworks CSS
-- [] 6-3: CSS Flexbox - Parte 1 
-- [] 6-4: CSS Flexbox - Parte 2
-- [] 6-5: CSS Responsivo - Mobile First
-- [] 6-6: Projeto - Trybewarts
+- [ ] 6-1: HTML e CSS - Forms
+- [ ] 6-2: Bibliotecas JavaScript e Frameworks CSS
+- [ ] 6-3: CSS Flexbox - Parte 1 
+- [ ] 6-4: CSS Flexbox - Parte 2
+- [ ] 6-5: CSS Responsivo - Mobile First
+- [ ] 6-6: Projeto - Trybewarts
