@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Formulário</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1 id="titulo">Currículo do candidato</h1>
+    </header>
+    <main>
+        <form action="" method="get">
+            <div id="quadro1">
+                <fieldset>
+                    <label for="nome"> Nome
+                        <input type="text" name="nome" maxlength="40" id="nome" placeholder="Digite seu nome" required>
+                    </label>
+                    <br>
+                    <br>
+                    <label for="email">E-mail
+                        <input type="email" name="email" maxlength="50" id="email" placeholder="Digite seu email"
+                            required>
+                    </label>
+                    <br>
+                    <br>
+                    <label for="cpf">CPF
+                        <input type="text" name="cpf" maxlength="11" id="cpf" placeholder="Digite seu CPF" required>
+                    </label>
+                    <br>
+                    <br>
+                    <label for="endereco">Endereço
+                        <input type="text" name="endereco" maxlength="200" id="endereco"
+                            placeholder="Digite seu endereço" required>
+                    </label>
+                    <br>
+                    <br>
+                    <label for="cidade">Cidade
+                        <input type="text" name="cidade" maxlength="28" id="cidade" placeholder="Digite sua cidade"
+                            required>
+                    </label>
+                    <br>
+                    <br>
+                    <label for="estado">Estado
+                        <select name="estado" id="estado" required>
+                            <option value="">Selecione seu estado</option>
+                        </select>
+                    </label>
+                    <br>
+                    <br>
+                    <label for="moradia"> Onde você mora?
+                        <input type="radio" name="moradia" id="moradia1" value="cs" required> Casa
+                        <input type="radio" name="moradia" id="moradia2" value="ap" required> Apartamento
+                    </label>
+
+                </fieldset>
+            </div>
+            <div id="quadro2">
+                <fieldset>
+                    <p id="legenda">Dados do seu último emprego:</p>
+                    <label for="curriculo"> Resumo do currículo
+                    </label>
+                    <textarea name="curriculo" id="curriculo" cols="10" rows="10"
+                        placeholder="Digite o resumo do seu currículo" required></textarea>
+                    <br>
+                    <br>
+                    <label for="cargo">Cargo
+                        <input type="text" maxlength="40" name="cargo" id="cargo"
+                            placeholder="Digite qual era seu cargo" required>
+                    </label>
+                    <br>
+                    <br>
+                    <label for="descricao-cargo"> Descrição do Cargo
+                        <input type="text" maxlength="500" name="descricao-cargo" id="descricao-cargo"
+                            placeholder="Digite a descrição do seu cargo" required>
+                    </label>
+                    <br>
+                    <br>
+                    <label for="data">Data de início
+                        <input type="date" name="data" id="data" value="" required>
+                    </label>
+                </fieldset>
+            </div>
+            <div id="botao">
+                <footer>
+                    <button type="submit" id="botao-enviar">Enviar</button>
+                    <button type="reset" id="botao-limpar">Limpar</button>
+                </footer>
+            </div>
+        </form>
+    </main>
+</body>
+<script src="script.js"></script>
+
+</html>

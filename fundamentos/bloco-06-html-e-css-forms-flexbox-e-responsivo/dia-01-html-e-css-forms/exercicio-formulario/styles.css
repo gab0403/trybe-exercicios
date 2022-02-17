@@ -1,0 +1,50 @@
+  body {
+      background-color: darksalmon;
+  }
+
+#titulo {
+text-align: center;
+margin-top: 20px;
+}
+
+#quadro1 {
+   
+    background-color: seashell;
+    border: 1px solid rgb(214, 217, 220);
+    border-radius: 3px;
+    width: 50%;
+    margin: 40px 0;
+    padding: 40px;
+    margin-right: auto;
+    margin-left: auto;
+}
+  
+#quadro2 {
+ 
+    background-color: seashell;
+    border: 1px solid rgb(214, 217, 220);
+    border-radius: 3px;
+    width: 50%;
+    margin: 40px 0;
+    padding: 40px;
+   margin-right: auto;
+    margin-left: auto;
+}
+textarea{
+    width: 50%;
+    margin: 40px 0;
+    padding: 40px;
+   margin-right: auto;
+    margin-left: auto;
+}
+input{
+    text-align: center;
+}
+fieldset{
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+footer{
+   
+}
