@@ -9,7 +9,7 @@ São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento
 web, desenvolvimento Front-end, Back-end, ciência da computação, metodologias
 ágeis e habilidades comportamentais.
 
-# Fundamentos do Desenvolvimento Web :green_check_mark:
+# Fundamentos do Desenvolvimento Web ✅
 ## Bloco 1: Introdução - Unix & Shell
 - [x] 1-3: Unix & Shell
 - [x] 1-3: Unix & Bash - Part 1
@@ -57,7 +57,7 @@ web, desenvolvimento Front-end, Back-end, ciência da computação, metodologias
 - [x] 8-5: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [x] 8-6: Projeto - Zoo functions
 
-# Desenvolvimento Front-end :green_check_mark:
+# Desenvolvimento Front-end ✅
 ## Bloco 9 - JavaScript e Testes Assíncronos
 - [x] 9-1: Introdução - Front-end
 - [x] 9-1: JavaScript Assíncrono e Callbacks
@@ -102,7 +102,7 @@ web, desenvolvimento Front-end, Back-end, ciência da computação, metodologias
 ## Bloco 18 - Projeto App de Receitas
 - [x] 18-1: Projeto - App de Receitas
 
-# Desenvolvimento Back-end :green_check_mark:
+# Desenvolvimento Back-end ✅
 ## Bloco 19 - Docker: Utilizando Containers
 - [x] 19-1: Introdução - Back-end
 - [x] 19-1: Utilizando Containers - Docker
