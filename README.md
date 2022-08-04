@@ -122,13 +122,48 @@ web, desenvolvimento Front-end, Back-end, ciência da computação, metodologias
 - [x] 21-3: Transformando ideias em um modelo de banco de dados
 - [x] 21-4: Aula ao vivo + Projeto - One For All
 ## Bloco 22 - Introdução ao desenvolvimento Web com Node.js
-- [x] 202-1: Intro - Node.js
+- [x] 22-1: Intro - Node.js
 - [x] 22-1: Node.js - Um motor JavaScript
 - [x] 22-2: Node.js - Fluxo Assíncrono
 - [x] 22-3: Mocha, Chai e Sinon - Testes de Back-end com Node.js
 - [x] 22-4: Express - HTTP com Node.js
 - [x] 22-5: Express - Middlewares
 - [x] 22-6: Atividades + Projeto - Talker Manager
+## Bloco 23 - Node.js: Camada de Serviço e Arquitetura Rest e Restful
+- [x] 23-1: Introdução - Arquitetura de Software
+- [x] 23-1: Arquitetura de Software - Camada de Model
+- [x] 23-2: Arquitetura de Software - Camada de Controller e Service
+- [x] 23-3: Arquitetura Web - Rest e Restful
+- [x] 23-4: Arquitetura de Software - Testando as Camadas
+- [x] 23-5: Projeto - Store Manager
+## Bloco 24 - Node.js: ORM e Autenticação
+- [x] 24-1: Introdução - Node.js: ORM e Autenticação
+- [x] 24-1: ORM - Interface da aplicação com o banco de dados
+- [x] 24-2: ORM - Associations
+- [x] 24-3: JWT - (JSON Web Token)
+- [x] 24-4: Testando APIs com Testes de Integração
+- [x] 24-5: Projeto - API de Blogs
+## Bloco 25 - Deployment
+- [x] 25-1: Introdução - Deploy
+- [x] 25-1: Infraestrutura - Deploy com Heroku
+- [x] 25-2: Deploy Docker & Heroku
+- [x] 25-3: Projeto - Stranger Things
+## Bloco 26 - TypeScript
+- [x] 26-1: Introdução - TypeScript
+- [x] 26-1: Introdução ao TypeScript
+- [x] 26-2: Tipagem Estática e Generics
+- [x] 26-3: Express com TypeScript
+- [x] 26-4: Projeto - Trybe Smith
+## Bloco 27 - Programação Orientada a Objetos (POO) e SOLID
+- [x] 27-1: Introdução à Orientação a Objetos
+- [x] 27-2: Herança e Interfaces
+- [x] 27-3: Polimorfismo
+- [x] 27-4: SOLID - Introdução e Princípios S, O e D
+- [x] 27-5: SOLID - Princípios L e I
+- [x] 27-6: Projeto - Trybers and Dragons
+## Bloco 28 -  Projeto - TFC - Trybe Futebol Clube
+- [x] 28-1: Projeto - TFC - Trybe Futebol Clube
+
 
 
 
