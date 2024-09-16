@@ -1,0 +1,31 @@
+GET http://localhost:3001/recipes 
+
+###
+GET http://localhost:3001/recipes/pesquisar?name=Macarrão&maxPrice=40
+
+###
+GET http://localhost:3001/recipes/2
+
+###
+POST http://localhost:3001/recipes
+content-type: application/json
+
+{
+    "id": 4,
+    "name": "Pastel",
+    "price": 20
+}
+
+###
+PUT http://localhost:3001/recipes/4 
+content-type: application/json
+
+{
+  "id": 4,
+  "name": "Pastel",
+  "price": 20,
+  "waitTime": 25
+}
+
+###
+DELETE http://localhost:3001/recipes/4 
