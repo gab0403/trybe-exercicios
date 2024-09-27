@@ -1,4 +1,4 @@
-import './App.css';
+
 import pokemons from './data';
 import React from 'react';
 import Pokedex from './Pokedex';
